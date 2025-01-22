@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ishant 👋  
+**Computer Vision & AI Engineer | Generative AI Enthusiast | Tech Innovator**  
 
-<!--
-**ishantbansal/ishantbansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 **About Me**  
+- Experienced in developing end-to-end AI solutions, specializing in **Computer Vision** and **Generative AI models**.  
+- Passionate about solving real-world problems using cutting-edge deep learning techniques.  
+- Skilled in scaling POCs to production-level systems and optimizing deployment pipelines.  
 
-Here are some ideas to get you started:
+💡 **What I Do**  
+- Build AI tools like the **Visual Aid Analysis AI Tool** for ensuring compliance with design principles and regulatory guidelines.  
+- Work extensively with **deep learning** and **Generative AI models** (LLMs, VLMs, Diffusion Models).  
+- Develop robust APIs using **FastAPI**, containerize applications with **Docker**, and deploy them on **AWS**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Tech Stack**  
+- **Programming Languages**: Python, C++, SQL, Bash  
+- **AI & ML**: TensorFlow, PyTorch, OpenCV, Sci-Kit Learn  
+- **Generative AI**: LLMs, RAG, Transformers, VLMs, Diffusion Models  
+- **DevOps Tools**: Docker, Kubernetes, Jenkins, AWS ECS, S3, ECR, ALB  
+- **APIs & Microservices**: FastAPI, Uvicorn, REST APIs  
+
+📫 **Get in Touch**  
+- LinkedIn: [https://www.linkedin.com/in/ishantbansal/](#)
+- Email: ishantbansal162@gmail.com
