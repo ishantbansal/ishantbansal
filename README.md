@@ -11,13 +11,18 @@
 - Work extensively with **deep learning** and **Generative AI models** (LLMs, VLMs, Diffusion Models).  
 - Develop robust APIs using **FastAPI**, containerize applications with **Docker**, and deploy them on **AWS**.  
 
-🚀 **Tech Stack**  
+📚 **Skills**  
 - **Programming Languages**: Python, C++, SQL, Bash  
-- **AI & ML**: TensorFlow, PyTorch, OpenCV, Sci-Kit Learn  
-- **Generative AI**: LLMs, RAG, Transformers, VLMs, Diffusion Models  
-- **DevOps Tools**: Docker, Kubernetes, Jenkins, AWS ECS, S3, ECR, ALB  
-- **APIs & Microservices**: FastAPI, Uvicorn, REST APIs  
+- **Artificial Intelligence**: Computer Vision, Image Processing, Machine Learning, Deep Learning  
+- **Generative AI**: Text, Image, and Video Generation, Retrieval-Augmented Generation (RAG), Diffusion Models, Transformers  
+- **APIs and Microservices**: FastAPI, REST API Development, Uvicorn, WebSockets  
+- **Frameworks/Libraries**: TensorFlow, Keras, OpenCV, Kafka, Kubernetes, scikit-learn, NumPy, Pandas, MatPlotLib, PyTorch, Git  
+- **DevOps**: Docker, Kubernetes, Jenkins, AWS ECS, AWS ECR  
+
+🎓 **Relevant Coursework**  
+- **Computer Vision Nanodegree** (Udacity)  
+- **Deep Learning Specialization** (Coursera)  
 
 📫 **Get in Touch**  
-- LinkedIn: [https://www.linkedin.com/in/ishantbansal/](#)
-- Email: ishantbansal162@gmail.com
+- LinkedIn: [Ishant Bansal](https://www.linkedin.com/in/ishantbansal/)  
+- Email: your.email@example.com
