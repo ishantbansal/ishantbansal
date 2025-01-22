@@ -25,4 +25,4 @@
 
 📫 **Get in Touch**  
 - LinkedIn: [Ishant Bansal](https://www.linkedin.com/in/ishantbansal/)  
-- Email: your.email@example.com
+- Email: [ishantbansal162@gmail.com](mailto:ishantbansal162@gmail.com)
